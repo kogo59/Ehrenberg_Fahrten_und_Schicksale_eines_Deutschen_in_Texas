@@ -1,4 +1,4 @@
-# Der Ruwenzori.
+# Fahrten und Schicksale eines Deutschen in Texas.
 
 This is a git repository of the source files for the book "Fahrten und Schicksale eines Deutschen in Texas."
 
