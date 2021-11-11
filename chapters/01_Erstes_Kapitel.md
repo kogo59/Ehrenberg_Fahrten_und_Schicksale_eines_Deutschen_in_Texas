@@ -1,6 +1,5 @@
 # Mexiko vor 1835. {#erstes .unnumbered}
 
-
 ::: justified
 **B**is zum Freiheitskampfe hatten zwar die spanischen unersättlichen Beamten
 und Aristokraten alles Männliche, alles Selbstgefühl der Mexikaner durch Betrug
@@ -144,7 +143,7 @@ Colonien ankam, daß Santa Anna sich an die Spitze der liberalen Partei gestellt
 habe. Auch hier wurde sogleich dieselbe Fahne erhoben, und die Besatzungen
 mußten sich dieser unterwerfen.
 
-Santa Anna indeß, wie schon erwähnt, wurde seinem politischen Glanbensbekenntniß
+Santa Anna indeß, wie schon erwähnt, wurde seinem politischen Glaubensbekenntniß
 untreu, und eifersüchtiger, als irgend eine Regierung bisher, blickte die
 seinige auf die Colonien in Texas. Deren Ansuchen an die Generalregierung, da
 sie nun reif und constitutionell berechtigt waren, einen eigenen Staat in der

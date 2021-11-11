@@ -17,7 +17,7 @@ in<br /><br />
 ::::
 
 :::: { .fs-jumbo .align-center }
-Texas<br />
+Texas.<br />
 ::::
 
 :::: align-center
