@@ -1,7 +1,7 @@
 # New-Orleans. {#zwei .unnumbered}
 
 ::: justified
-Volksversammlung — prangten zwei Fuß hohe Buchstaben an allen Ecken der
+**V**olksversammlung — prangten zwei Fuß hohe Buchstaben an allen Ecken der
 schnurgeraden Straßen von New-Orleans —große Volksversammlung diesen Abend acht
 Uhr in der Arkade. Es gilt der Freiheit, der Souverainität eines Volkes, in
 dessen Adern das Blut der Anglo-Sachsen rollt. — Texas, das Prärieland, ist

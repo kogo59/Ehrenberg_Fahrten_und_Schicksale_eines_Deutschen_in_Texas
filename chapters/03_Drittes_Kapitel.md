@@ -1,7 +1,7 @@
 # Nacogdoches. {#drei .unnumbered}
 
 ::: justified
-Es war der zweite Tag nach unserer Abreise von San Augustin, wo wir
+**E**s war der zweite Tag nach unserer Abreise von San Augustin, wo wir
 beabsichtigten, in Nacogdoches^[^0300]^ einzutreffen, aber die hereinbrechende frostige
 Nacht fand uns noch zerstreut in den verschiedenen Theilen der Wälder, und die
 Meisten übernachteten in den einzelnen Plantagen, die in einer Entfernung von 5
