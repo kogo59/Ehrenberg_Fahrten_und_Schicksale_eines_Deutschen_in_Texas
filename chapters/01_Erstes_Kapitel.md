@@ -31,7 +31,7 @@ Elf lange schwere Jahre kämpften und mordeten die Parteien; Horden in Lumpen,
 nackt, Räubern nicht unähnlich, wenn sie es nicht wirklich waren, zogen im Lande
 umher, und Blut, Blut war die Losung von allen Seiten. Die eine Rotte, die
 Spanier, trugen das Mordschwert aus Habsucht und für Sklaverei, die andere, die
-Merikaner, für grasse Rache an ihren Unterdrückern, die bereits seit
+Mexikaner, für grasse Rache an ihren Unterdrückern, die bereits seit
 Jahrhunderten die Geißel über ihnen schwangen.
 
 Das Jahr 1821 kam heran und mit ihm des spanischen Despotismus letzte Stunde.
@@ -85,7 +85,7 @@ Vormundschaft gestellt werden.
 Nun tritt die nordöstlichste Provinz, Texas, in den Vordergrund, und wenige
 Worte sind nöthig, um das Folgende zu verstehen.
 
-Texas hatte bis zu Mexiko's Befreiungskampfe nur eine sehr geringe merikanische
+Texas hatte bis zu Mexiko's Befreiungskampfe nur eine sehr geringe mexikanische
 Bevölkerung, die sich in den Städten San Antonio, La Bahia (Goliad), Nacogdoches
 und einigen Missionsanstalten zusammenhäufte, wo sie durch ihre eigene Menge
 einigermaßen gegen die Gewaltthaten der wilden Comanches und anderer
@@ -151,7 +151,7 @@ Union zu bilden, blieb ohne Erfolg: ihr Wortführer Stephan F. Austin wurde in
 der Stadt Mexiko eingekerkert und lange ohne Verhör gelassen, friedliche Bürger
 grundlos auf bloßen Verdacht verhaftet, und andere Excesse mehr verübt.
 
-Da kam Austin, nach zweijährigem Aufenthalte in Meriko, von dort im Sommer 1835
+Da kam Austin, nach zweijährigem Aufenthalte in Mexiko, von dort im Sommer 1835
 zurück, und jubelnd empfingen ihn die gekränkten Colonisten. Brenzo de Zavala^[^0106]^,
 ein Mexikaner und Held des Freiheitskampfes, der sich Santa Anna's
 Gewaltstreichen entgegengestemmt hatte, mußte Mexiko verlassen und begab sich

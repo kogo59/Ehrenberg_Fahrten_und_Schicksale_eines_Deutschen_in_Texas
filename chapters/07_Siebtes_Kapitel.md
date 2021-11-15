@@ -252,7 +252,7 @@ merk' es — aber meine theure Rosinante, leb' wohl, und fare well, meine Herren
 quen vives. Will morgen antworten, muß erst spanisch lernen.“ —
 
 Doch die Herren quen vives, denen die Antwort nicht genügend war, schickten ihm
-etwas Merikanisches in der Gestalt von Musketenkugeln nach, wovon eine dem Leben
+etwas Mexikanisches in der Gestalt von Musketenkugeln nach, wovon eine dem Leben
 der unschuldigen Rosinante ein Ende machte, jedoch eine andere sich in die linke
 Seite unseres braven Kameraden verirrte, welches derselbe jedoch, da er in
 bedeutender Eile war, nicht eher bemerkte, bis er einige Hundert Schritte von
