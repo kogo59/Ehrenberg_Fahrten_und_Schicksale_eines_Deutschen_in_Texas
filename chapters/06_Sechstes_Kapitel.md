@@ -120,7 +120,7 @@ Mexiko's charakterisirt sie ihre Feigheit.
 Die Comanches haben der Welt ewige Feindschaft geschworen; ihre 5 —6000 rothen
 Krieger jagen in Truppen von einhundert bis vierhundert Mann nebst Weibern und
 Kindern durch die Regionen der Guadalupe und der San-Saba-Gebirge, und früher
-kamen sie sogar herab in die niederen Gegenden von Teras. Wie eine Gewitterwolke
+kamen sie sogar herab in die niederen Gegenden von Texas. Wie eine Gewitterwolke
 fliegen sie zu Zeiten auf der mexikanischen Seite den Rio Grande hinunter und
 kehren mit großen geraubten Heerden in ihre Thäler zurück.
 

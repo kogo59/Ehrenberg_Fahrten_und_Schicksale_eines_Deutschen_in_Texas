@@ -169,7 +169,7 @@ Euch selbst“ unserer Wirthe war die ganze Ceremonie, die wir beim Essen hatten
 Nach dem Eintritte der Nacht saß ich mit noch vier meiner Kameraden und unserem
 Wirth nebst seinen Söhnen um ein hellloderndes Kaminfeuer, und der erste
 Nordweststurm dieses Herbstes fegte von den weitentfernten Felsengebirgen herab
-durch die Waldungen des nordöstlichen Teras. Innerlich glücklich saßen wir in
+durch die Waldungen des nordöstlichen Texas. Innerlich glücklich saßen wir in
 der gemüthlichen Wohnung des alten Colonisten, der uns mit feurigen Anekdoten
 aus dem Freiheitskampfe der Staaten ergötzte. Still saßen wir mit den
 ernsthaften Bewohnern des Westens im weiten Kreise um die sengende Gluth, und

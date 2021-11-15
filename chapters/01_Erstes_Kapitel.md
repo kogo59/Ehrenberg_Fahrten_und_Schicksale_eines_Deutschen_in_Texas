@@ -91,7 +91,7 @@ und einigen Missionsanstalten zusammenhäufte, wo sie durch ihre eigene Menge
 einigermaßen gegen die Gewaltthaten der wilden Comanches und anderer
 Prärie-Indianer geschützt war.
 
-Der Grund, daß ein solches Land wie Teras nicht mehr als 6000 Einwohner zählte
+Der Grund, daß ein solches Land wie Texas nicht mehr als 6000 Einwohner zählte
 lag einerseits in der Eifersucht der Spanier gegen die Nachbarstaaten, von deren
 freien, aufgeklärten Institutionen sie Alles zu fürchten hatten, und anderseits
 darin, daß die erwähnten Indianer allen Verkehr und alle Cultur des Bodens
@@ -103,7 +103,7 @@ gehorsamst Pferd und Bügel halten.
 
 Um diesen Raubzügen Einhalt zu thun, nahm die spanische Regierung kurz vor ihrem
 Falle den Plan eines Amerikaners, Moses Austin^[^0104]^, an, welcher zum Schutze der
-Grenzländer eine Colonie seiner Landsleute in Teras gründen wollte. Moses Austin
+Grenzländer eine Colonie seiner Landsleute in Texas gründen wollte. Moses Austin
 starb bald, nachdem er den Grund zur Colonisation gelegt hatte; sein Sohn
 Stephan F. Austin^[^0105]^ setzte das Werk fort. Hunderte und Hunderte von Familien
 strömten aus den Staaten herüber; der mexikanische Kampf brach aus; die Freiheit

@@ -82,7 +82,7 @@ der Ecke auf dem Sande, verstehst Du?“
 Folge zu leisten.
 
 „Nun,“ fuhr der Squire fort, indem er Platz nahm, „wie gefällt Euch unser
-Teras?“
+Texas?“
 
 „Himmlisch, Squire,“ nahm Peter Mattern das Wort, „und die Colonisten alle so
 ein gastfreundliches und kreuzbraves Völkchen, daß ich mich schwerlich für's
