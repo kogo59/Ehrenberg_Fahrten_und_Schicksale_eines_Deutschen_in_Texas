@@ -197,7 +197,7 @@ Kleinigkeit.“
 „Eben deswegen, Sir, weil es keine Kleinigkeit ist, müssen wir es in Anwendung
 bringen. Was scheert sich diese Gentry um Kleinigkeiten?“ fuhr der Squire fort.
 
-„Aber,‚“ versetzte ich, „haben die Texaner ein Recht, ihre Mitmenschen so aus
+„Aber“ versetzte ich, „haben die Texaner ein Recht, ihre Mitmenschen so aus
 der Welt zu schaffen, wenn diese nichts in den Grenzen von Texas verbrochen
 haben?“
 
