@@ -9,7 +9,7 @@ die noch ziemlich erhaltene, aber ihres ganzen Schmuckes beraubte Kirche zum
 Quartier gewählt. Sie war nicht so groß wie die der Stadt und auch nicht so
 schön, obgleich noch Spuren von früheren Verzierungen vorhanden waren. Vor dem
 Haupteingange standen mehrere hohe graue Bogen, unter denen es gefährlich schien
-lange zu verweilen. Ihre Anßenseite war mit aus Sandstein gehauenen Heiligen
+lange zu verweilen. Ihre Außenseite war mit aus Sandstein gehauenen Heiligen
 versehen, vor denen die Mexikanerinnen regelmäßig jeden Morgen niederknieten,
 ohne sich von dem Aus- und Eingehen der Freiwilligen im Geringsten stören zu
 lassen. Man sagte, daß diese Sandsteinheiligen jetzt mehr als je besucht würden,
