@@ -246,7 +246,6 @@ geführtes Tagebuch. Also mit nichts weiter als den höchst nöthigen Kleidern
 versehen, ja sogar ohne Rock und Mütze, welche letztere ich im Flusse verloren
 hätte, schritt ich in die Prärien und Wälder des himmlischen Westen.
 
-
 :::
 
 :::: align-center
