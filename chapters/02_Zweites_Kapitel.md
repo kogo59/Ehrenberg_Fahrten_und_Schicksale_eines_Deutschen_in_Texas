@@ -90,7 +90,7 @@ Aufenthalt, sondern nachdem wir mit der respektablen Miliz ein Glas ächten
 Holländer, oder auch Einigen besser mundenden Champagner auf das Wohl der
 Colonien geleert hatten, marschirten wir in pompöser Parade nach der
 schnaufenden Washita zurück; und sowie der Signalglocke letzter Ton in den
-Wäldern erschollen war, brauste das Boot durch die dicken, trüben Wogen den
+Wäldern erschollen war, braus'te das Boot durch die dicken, trüben Wogen den
 Strom hinauf. Bevor wir Natchitoches erreichten, waren wir mit der Wahl unserer
 Officiere fertig. Breece wurde ohne Mitbewerber zum Capitain erwählt.
 

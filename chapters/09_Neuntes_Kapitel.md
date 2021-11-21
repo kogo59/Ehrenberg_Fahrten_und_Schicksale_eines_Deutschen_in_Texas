@@ -8,7 +8,7 @@ unter unseren Decken und träumten von den Ereignissen des kommenden Tages. Es
 war gerade 2 Uhr, als die Wachen abgelöst wurden, die nun von Zelt zu Zelt
 schritten und in der größten Stille die Schläfer weckten. Diese fuhren aus ihren
 Träumen empor, bebten aber eben so schnell zurück, als der eisige Hauch des
-Sturmes um ihre noch warmen Glieder brauste.
+Sturmes um ihre noch warmen Glieder braus'te.
 
 Aber bald standen wir mit der treuen Büchse auf der Schulter in Reihen, alle in
 unsere Decken gehüllt, und erwarteten das Zeichen zum Aufbruche.

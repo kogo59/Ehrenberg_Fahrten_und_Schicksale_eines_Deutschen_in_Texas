@@ -28,10 +28,10 @@ Nach wenigen Stunden war der größte Theil der Truppen an der Küste oder auf d
 Wogen beschäftigt, die mitgebrachten Vorräthe zu landen.
 
 Unter einigen Compagnien kann ich hier nur das famose Georgia-Bataillon unter
-Major Ward erwähnen, alles herkulische, muskulöse Gestalten; aber die Besten
+Major Ward^[^1213]^ erwähnen, alles herkulische, muskulöse Gestalten; aber die Besten
 waren die Red-Rovers, wohlgebildete Bürgerssöhne von Alabama, sämmtlich in
 braune Jagdhemden und Hosen gekleidet und mit Büchsen und Pistolen bewaffnet.
-Doctor Shaklefort, ihr Capitain, wurde von Allen wie ein Vater verehrt, da er
+Doctor Shaklefort^[^1212]^, ihr Capitain, wurde von Allen wie ein Vater verehrt, da er
 der einzige bejahrte Mann unter ihnen war; auch sein Sohn und Neffe hatten mit
 ihm für unsere gerechte Sache die Büchse geschultert.
 
@@ -184,3 +184,7 @@ Geschütz rund herum ein freies Revier.
 [^1210]: [Schlag 12 Uhr werden bei Wahlen die Listen geschlossen.]{.footnote}
 
 [^1211]: [Diese Gegend ist noch frei und das Land Eigenthum der Regierung. Ich wüßte keinen Strich, der sich besser für Deutsche eignen würde; das Klima ist gesund, kühl und schön; der Boden reich, ein schiffbarer Fluß ganz in der Nähe, eben so die Corpus —Christi —Bai, von wo aus der Pflanzer seine Produkte irgend einem Markte zuführen kann, und dann ist noch die Nähe der mexikanischen Grenze zu bemerken, nach welcher späterhin ohne Zweifel ein bedeutender Handel getrieben werden wird.]{.footnote}
+
+[^1212]: [*Doctor Shaklefort*: vergleiche [Jack Shackelford](https://en.wikipedia.org/wiki/Jack_Shackelford)]{.footnote}
+
+[^1213]: [*Major Ward*: vergleiche [William Ward](https://en.wikipedia.org/wiki/William_Ward_(Texas_soldier))]{.footnote}

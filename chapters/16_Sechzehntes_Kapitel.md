@@ -80,7 +80,7 @@ die Kugeln flogen in respektabler Höhe über unsere Köpfe; nur hin und wieder
 schwirrte eine ganz ermüdet heran und schlug, als hauche sie eben ihren letzten
 Athemzug aus, singend vor uns in die Erde, ohne nur den geringsten Staub zu
 verursachen. Nur eine, ein unschuldiges Ding — der Schütze hatte gewiß nicht
-vermuthet, daß er so nahe daran war, einen Menschen zu tödten — brauste zwischen
+vermuthet, daß er so nahe daran war, einen Menschen zu tödten — braus'te zwischen
 mir und meinem Nebenmanne hindurch und riß meinem Freunde Thomas Camp, welcher
 nach mir der Jüngste in der Armee war, den oberen Theil der Mütze vom Kopfe.
 

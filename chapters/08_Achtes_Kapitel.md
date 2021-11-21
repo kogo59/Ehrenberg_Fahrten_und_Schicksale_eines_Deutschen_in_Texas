@@ -313,7 +313,7 @@ besser hatten, als bei ihren Landsleuten.
 
 Von Tag zu Tag drangen wir darauf, Fort und Stadt zu stürmen, konnten jedoch den
 Befehlshaber der Miliz, die den größten Theil des Heeres ausmachte, nicht dazu
-bewegen, bis Colonel Grant, der früher Officier unter den schottischen
+bewegen, bis Colonel Grant^[^0807]^, der früher Officier unter den schottischen
 Hochländern, aber seit mehreren Jahren ein Bürger Mexiko's war, es dahin
 brachte, daß eine allgemeine Versammlung der sämmtlichen Truppen stattfinden
 sollte, wobei E. Burleson^[^0806]^, der Befehlshaber, der Armee seine Pläne mitzutheilen
@@ -490,3 +490,5 @@ und noch unangenehmer, als dem Bewohner des Nordens sein kalter Januar ist.
 [^0805]: [*General Cos*: vergleiche [Martín Perfecto de Cos](https://en.wikipedia.org/wiki/Mart%C3%ADn_Perfecto_de_Cos)]{.footnote}
 
 [^0806]: [*E. Burleson*: vergleiche [Edward Burleson](https://en.wikipedia.org/wiki/Edward_Burleson)]{.footnote}
+
+[^0807]: [*Colonel Grant*: vergleiche [James Grant](https://en.wikipedia.org/wiki/James_Grant_(Texas_politician))]{.footnote}

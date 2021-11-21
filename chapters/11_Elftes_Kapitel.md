@@ -328,7 +328,7 @@ die Prärie-Hunde, welche man hier in großen Schaaren antrifft. Diese Hunde war
 keineswegs schen, denn erstaunt eine Karavane dieser Art durch ihr ödes Revier
 ziehen zu sehen, verließen sie ihr Versteck, trabten reihenweise in kurzer
 Entfernung neben uns her und richteten ihre interessanten Köpfe stets gegen uns.
-Ein Orkan brauste vom Golfe her über die Prärie uns entgegen, und wäre es unser
+Ein Orkan braus'te vom Golfe her über die Prärie uns entgegen, und wäre es unser
 Wille gewesen, so möchten wir unser Pferd mit wilden Gänsen beladen haben, die
 sich des Sturmes wegen nicht aus dem Grase wagten und nicht selten in's Bereich
 unserer Pistolen kamen.
