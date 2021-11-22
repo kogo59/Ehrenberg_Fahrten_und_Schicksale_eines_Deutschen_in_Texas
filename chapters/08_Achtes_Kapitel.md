@@ -190,7 +190,7 @@ fliegt der zerstörende Ball auf die bezeichnete Stelle. Das Rasseln der Steine
 benachrichtigte uns, noch ehe der Dampf der Explosion verschwunden war, daß er
 getroffen hatte. Doch als der Dampf sich verzogen hatte, suchten wir vergebens
 nach dem dritten und vierten Fenster. Einstimmig ertönte ein Hurrah für den
-alten tauben Smith, wie sie ihn nannten, für den tapfersten Texaner, der je die
+alten tauben Smith^[^0808]^, wie sie ihn nannten, für den tapfersten Texaner, der je die
 Prärie durchjagte, und der späterhin mit seinem Beobachtungs-Corps an der
 mexikanischen Grenze zwischen der Nueces und dem Rio Grande so gute Dienste
 leistete. Die Figur eines Hinterwäldlers im wahren Sinne des Wortes stand unter
@@ -492,3 +492,5 @@ und noch unangenehmer, als dem Bewohner des Nordens sein kalter Januar ist.
 [^0806]: [*E. Burleson*: vergleiche [Edward Burleson](https://en.wikipedia.org/wiki/Edward_Burleson)]{.footnote}
 
 [^0807]: [*Colonel Grant*: vergleiche [James Grant](https://en.wikipedia.org/wiki/James_Grant_(Texas_politician))]{.footnote}
+
+[^0808]: [*tauber Smith*: vergleiche [Deaf Smith](https://en.wikipedia.org/wiki/Deaf_Smith)]{.footnote}
