@@ -1,5 +1,7 @@
 # Fahrten und Schicksale eines Deutschen in Texas.
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/193414459-e85cd345-dd5f-4ce2-ab52-2eebefc06b1b.jpg">
+
 This is a git repository of the source files for the book "Fahrten und Schicksale eines Deutschen in Texas."
 
 Author:
