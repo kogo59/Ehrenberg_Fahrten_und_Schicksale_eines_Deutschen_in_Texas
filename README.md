@@ -23,5 +23,4 @@ before January 1, 1926.
 # Sources
 Fahrten und Schicksale eines Deutschen in Texas. [archive.org](https://archive.org/details/fahrtenundschick00ehre)
 
-# ePUB
-Fahrten und Schicksale eines Deutschen in Texas. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=343234)
+
