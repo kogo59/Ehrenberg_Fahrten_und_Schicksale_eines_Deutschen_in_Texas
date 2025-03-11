@@ -139,11 +139,6 @@ Missouri, welche spanisch sprachen, wurden für andere Leiden aufgehoben.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [*General Mexia*: vergleiche [Tomás Mejía Camacho](https://en.wikipedia.org/wiki/Tom%C3%A1s_Mej%C3%ADa_Camacho)]{.footnote}
 

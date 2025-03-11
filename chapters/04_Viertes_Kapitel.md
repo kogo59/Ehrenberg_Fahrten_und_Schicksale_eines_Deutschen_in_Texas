@@ -248,11 +248,6 @@ Veränderungen wiederholte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0401]: [Theater.]{.footnote}
 

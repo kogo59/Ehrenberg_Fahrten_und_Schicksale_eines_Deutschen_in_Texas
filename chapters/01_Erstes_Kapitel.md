@@ -177,12 +177,6 @@ gegen Gewalt in Anwendung zu bringen; und nun zur Revolution!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0100]: [Spanier]{.footnote}
 
 [^0101]: [*Iturbide*: vergleiche [Agustín de Iturbide](https://de.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide)]{.footnote}

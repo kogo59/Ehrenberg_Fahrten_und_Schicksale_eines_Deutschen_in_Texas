@@ -257,11 +257,6 @@ da uns ein ruhiges Soldatenleben keineswegs behagte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1000]: [Landwohnungen.]{.footnote}
 

@@ -303,10 +303,5 @@ Fleisch abgeschnitten, getrocknet und zuletzt verbrannt hatten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1710]: [Landbewohner.]{.footnote}

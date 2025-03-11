@@ -298,11 +298,6 @@ Schlafstätte dar.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3000]: [Anstatt Guinea.]{.footnote}
 

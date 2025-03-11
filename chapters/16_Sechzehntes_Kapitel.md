@@ -521,11 +521,6 @@ zeigen, wie sie Santa Anna durch die Umstoßung der liberalen Constitution von
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1600]: [*Oberst Horton*: vergleiche [Albert Clinton Horton](https://en.wikipedia.org/wiki/Albert_Clinton_Horton)]{.footnote}
 

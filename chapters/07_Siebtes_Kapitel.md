@@ -290,11 +290,7 @@ Sprößlinge vor der Feste, und wo war der Alte je geschlagen worden!
 
 :::
 
-:::: align-center
-****
-::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0700]: [Sonne.]{.footnote}
 

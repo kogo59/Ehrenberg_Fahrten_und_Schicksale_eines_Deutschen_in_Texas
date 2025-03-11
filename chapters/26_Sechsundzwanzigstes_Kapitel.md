@@ -79,10 +79,4 @@ Gegenständen ihrer warteten, wogegen sich die Officiere schon über die Beute
 freuten, die dem Rio Grande zuwandern sollte.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^2601]: [*Matagorda*: vergleiche [Matagorda](https://en.wikipedia.org/wiki/Matagorda,_Texas)]{.footnote}

@@ -148,12 +148,6 @@ damaligen Sitze der Regierung, abgeführt.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^3100]: [Es war nach Santa Anna's Niederlage Filisola's strenger Befehl, den Texanern ferner keinen Schaden zuzufügen.]{.footnote}
 
 [^3101]: [Lump.]{.footnote}

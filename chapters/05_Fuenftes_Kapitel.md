@@ -87,11 +87,6 @@ verbarg.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [Waschbären, Eichhörnchen, Welschhühnern.]{.footnote}
 

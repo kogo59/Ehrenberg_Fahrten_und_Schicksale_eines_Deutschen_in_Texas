@@ -116,8 +116,3 @@ den Untergang der Mexikaner.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

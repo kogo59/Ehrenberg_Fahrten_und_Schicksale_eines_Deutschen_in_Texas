@@ -315,10 +315,5 @@ am andern Tage weckte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2000]: [Zeichen, woran die Pflanzer ihre Heerden kennen.]{.footnote}

@@ -234,11 +234,6 @@ aus solchen Quellen trugen wir Bedenken die Nachricht für wahr anzunehmen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [*Burnet*: vergleiche [David G. Burnet](https://en.wikipedia.org/wiki/David_G._Burnet)]{.footnote}
 

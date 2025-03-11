@@ -189,12 +189,6 @@ vermochte, sondern wohl fünf bis sechsmal in wenigen Minuten zu Boden taumelte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^2701]: [*Matagorda-Bai*: vergleiche [Matagorda-Bay](https://en.wikipedia.org/wiki/Matagorda_Bay)]{.footnote}
 
 [^2702]: [*Holzinger*: vergleiche [Juan José Holzinger](https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Holzinger)]{.footnote}

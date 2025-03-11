@@ -178,11 +178,6 @@ in welches wir traten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Nacogdoches*: vergleiche [Nacogdoches](https://de.wikipedia.org/wiki/Nacogdoches)]{.footnote}
 

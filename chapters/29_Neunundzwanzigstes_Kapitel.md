@@ -437,11 +437,6 @@ und wir dachten anfangs, die ganze feindliche Reiterei fege über die Prärie.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2900]: [Alle Karten von Texas außer der in Scherpfs Werke sind falsch.]{.footnote}
 

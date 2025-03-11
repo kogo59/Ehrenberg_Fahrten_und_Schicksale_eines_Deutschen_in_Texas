@@ -138,8 +138,3 @@ vermochte es — kein anderer Mann in der Republik.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

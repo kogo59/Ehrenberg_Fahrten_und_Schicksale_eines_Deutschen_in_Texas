@@ -226,12 +226,6 @@ feindlichen Kugeln am dichtesten hagelten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0200]: [Die Grenze zwischen der Union und Texas.]{.footnote}
 
 [^0201]: [Ein gewaltiges Messer, das den Namen des Erfinders Bowe trägt.]{.footnote}

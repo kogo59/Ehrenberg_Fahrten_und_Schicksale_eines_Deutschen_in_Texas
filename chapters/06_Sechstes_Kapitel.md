@@ -159,10 +159,6 @@ Essen gemacht, und bald konnten wir den himmlischen Abend in Ruhe genießen.
 
 :::
 
-:::: align-center
-****
-::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: [Gerichtshaus.]{.footnote}

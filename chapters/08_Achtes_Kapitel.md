@@ -471,11 +471,6 @@ und noch unangenehmer, als dem Bewohner des Nordens sein kalter Januar ist.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [Schwarzfuß-Indianer.]{.footnote}
 

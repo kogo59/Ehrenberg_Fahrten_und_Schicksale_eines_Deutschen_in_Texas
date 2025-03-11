@@ -256,11 +256,6 @@ sich mit diesem über Santa Anna's Schicksal zu berathen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2801]: [*General Filisola*: vergleiche [Vicente Filisola](https://de.wikipedia.org/wiki/Vicente_Filisola)]{.footnote}
 

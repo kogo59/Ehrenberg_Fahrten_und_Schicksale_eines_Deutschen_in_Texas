@@ -175,12 +175,6 @@ Geschütz rund herum ein freies Revier.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1210]: [Schlag 12 Uhr werden bei Wahlen die Listen geschlossen.]{.footnote}
 
 [^1211]: [Diese Gegend ist noch frei und das Land Eigenthum der Regierung. Ich wüßte keinen Strich, der sich besser für Deutsche eignen würde; das Klima ist gesund, kühl und schön; der Boden reich, ein schiffbarer Fluß ganz in der Nähe, eben so die Corpus —Christi —Bai, von wo aus der Pflanzer seine Produkte irgend einem Markte zuführen kann, und dann ist noch die Nähe der mexikanischen Grenze zu bemerken, nach welcher späterhin ohne Zweifel ein bedeutender Handel getrieben werden wird.]{.footnote}

@@ -497,11 +497,6 @@ verließ das Zelt, um frische Luft zu schöpfen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2200]: [Baumwollensamen — der in großen Haufen auf den Plantagen zu finden ist.]{.footnote}
 

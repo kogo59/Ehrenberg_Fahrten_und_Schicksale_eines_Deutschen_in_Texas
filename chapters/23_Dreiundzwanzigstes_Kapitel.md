@@ -197,11 +197,6 @@ Armeen von Mexiko abzuschneiden.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2300]: [Scherpf.]{.footnote}
 

@@ -222,11 +222,6 @@ gleichfalls die der Nation.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3300]: [Nickname der Bewohner Indiana's.]{.footnote}
 

@@ -419,11 +419,6 @@ mit Fischen, Austern und Geflügel mancher Art.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [*Fort Goliad*: vergleiche [Goliad](https://en.wikipedia.org/wiki/Goliad,_Texas)]{.footnote}
 

@@ -137,8 +137,3 @@ einige Male widerrief.
 :::
 
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

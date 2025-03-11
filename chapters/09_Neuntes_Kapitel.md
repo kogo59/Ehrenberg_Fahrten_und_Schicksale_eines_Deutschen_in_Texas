@@ -565,12 +565,6 @@ abzuwerfen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0900]: [Der Name von San Antonio, welches Wort die Mexikaner sehr abweichend von den Texanern aussprachen.]{.footnote}
 
 [^0901]: [Die Mexikaner hatten alle diese Art Musketen, aber nur die, welche die Engländer nicht gebrauchen konnten.]{.footnote}

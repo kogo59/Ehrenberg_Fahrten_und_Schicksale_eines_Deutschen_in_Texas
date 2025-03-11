@@ -269,8 +269,3 @@ zweiten Male den Klauen der Blauröcke entkam.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

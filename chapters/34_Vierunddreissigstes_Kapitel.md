@@ -103,10 +103,5 @@ Liberty! Law! and Texas for ever!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3400]: [Freiheitsbaum.]{.footnote}

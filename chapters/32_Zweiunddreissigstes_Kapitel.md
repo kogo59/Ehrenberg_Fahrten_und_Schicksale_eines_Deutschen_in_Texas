@@ -164,10 +164,5 @@ nach dem eigenen lieben Mexiko zurück. Mexiko — Santa Anna und die Priester a
 ewig, ist nun wie früher das Motto des Don John Holzinger.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3201]: [*Mirabeau B. Lamar*: vergleiche [Mirabeau B. Lamar](https://en.wikipedia.org/wiki/Mirabeau_B._Lamar)]{.footnote}

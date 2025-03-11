@@ -248,10 +248,5 @@ hätte, schritt ich in die Prärien und Wälder des himmlischen Westen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1801]: [Vergleiche [Goliad massacre](https://en.wikipedia.org/wiki/Goliad_massacre)]{.footnote}
